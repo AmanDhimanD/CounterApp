@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CounterApp/static/css/main.4cb93255.css",
+    "main.js": "/CounterApp/static/js/main.02e0b1d0.js",
+    "static/js/845.dda54069.chunk.js": "/CounterApp/static/js/845.dda54069.chunk.js",
+    "static/media/mysound.mp3": "/CounterApp/static/media/mysound.0ff4841369f29611f1ad.mp3",
+    "index.html": "/CounterApp/index.html",
+    "main.4cb93255.css.map": "/CounterApp/static/css/main.4cb93255.css.map",
+    "main.02e0b1d0.js.map": "/CounterApp/static/js/main.02e0b1d0.js.map",
+    "845.dda54069.chunk.js.map": "/CounterApp/static/js/845.dda54069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb93255.css",
+    "static/js/main.02e0b1d0.js"
+  ]
+}
